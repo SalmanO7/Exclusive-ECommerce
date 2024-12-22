@@ -4,8 +4,10 @@ import SignUp from "./components/SignUp";
 const page = () => {
   return (
     <>
+    
       <SignUp />
       <LogOut />
+
     </>
   );
 };
